@@ -1,4 +1,4 @@
-### try-catch-ignored-driven-development
+### ✨ try-catch-ignored driven development ✨
 
 <!--
 **Onikiro/onikiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
